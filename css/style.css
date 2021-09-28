@@ -1,0 +1,31 @@
+html{
+    background-color: rebeccapurple;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: #ff1e0c;
+}
+.box2{
+    width: 300px;
+    height: 400px;
+    border: 2px solid;
+    color: #ff1e0c;
+    background-color: #1132ff;
+}
+.box3{
+    width: 250px;
+    height: 600px;
+    border-radius: 6px;
+    background-color: #0ca813;
+}
+.name{
+    width: 400px;
+    color: #f9fff3;
+    text-align: center;
+}
+.name2{
+    width: 800px;
+    color: #ff940f;
+    text-align: right;
+}
